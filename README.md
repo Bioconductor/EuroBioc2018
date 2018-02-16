@@ -6,12 +6,12 @@ output:
    toc_float: true
 ---
 
-# European Bioconductor Meeting 2018
+=# European Bioconductor Meeting 2018
 
 
-The 2018 edition of the European Bioconductor meeting will be
+The 2018 edition of the **European Bioconductor meeting** will be
 organised in Munich, Germany, in December 2018. More details will be
-posted here in due time.
+posted here soon.
 
 ## Code of conduct
 
