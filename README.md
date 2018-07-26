@@ -13,6 +13,9 @@ The 2018 edition of the **European Bioconductor meeting** will be
 organised in Munich, Germany, in December 2018. More details will be
 posted here soon.
 
+- Where: Munich, Germany
+- When: 6 - 7 December 2018
+
 ## Code of conduct
 
 Bioconductor is built on the free and open exchange of scientific
