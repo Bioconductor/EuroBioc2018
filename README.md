@@ -32,9 +32,12 @@ the programmes from the
 [2015](https://sites.google.com/site/eurobioc2015/) editions.
 
 ## Organising committee
-
-- Julien Gagneur
-- Elaine Zosa
+- Wolfgang Huber
+- Martin Morgan
+- Mark Robinson
+- [Julien Gagneur](https://www.gagneurlab.in.tum.de/), Technical University Munich
+- Anne-Laure Boulesteix
+- Fabian Theis
 
 ## Sponsors
 
