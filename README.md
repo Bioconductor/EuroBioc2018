@@ -35,12 +35,12 @@ the programmes from the
 [2015](https://sites.google.com/site/eurobioc2015/) editions.
 
 ## Organising committee
-- Wolfgang Huber
-- Martin Morgan
-- Mark Robinson
-- [Julien Gagneur](https://www.gagneurlab.in.tum.de/), Technical University Munich
-- Anne-Laure Boulesteix
-- Fabian Theis
+- [Wolfgang Huber](https://www.embl.de/research/units/genome_biology/huber/), European Microbiology Laboratory (EMBL), Heidelberg
+- [Martin Morgan](https://www.roswellpark.org/martin-morgan), Roswell Park Comprehensive Cancer Center, Buffalo
+- [Mark Robinson](https://robinsonlabuzh.github.io/), University of Zurich
+- [Julien Gagneur](https://www.gagneurlab.in.tum.de/), Technical University Munich 
+- [Anne-Laure Boulesteix](https://www.ibe.med.uni-muenchen.de/lehrstuehle/pr-molecular-medicine/index.html), Ludwig Maximilian University Munich (LMU)
+- [Fabian Theis](https://www.helmholtz-muenchen.de/icb/index.html), Helmholtz Zentrum Munich
 
 ## Sponsors
 
