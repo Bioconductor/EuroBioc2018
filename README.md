@@ -10,11 +10,15 @@ output:
 
 
 The 2018 edition of the **European Bioconductor meeting** will be
-organised in Munich, Germany, in December 2018. More details will be
+organised at the Technical University Munich, Germany, in December 2018. More details will be
 posted here soon.
 
-- Where: Munich, Germany
+- Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstraße 2a, Garching
 - When: 6 - 7 December 2018
+
+## Accommodation
+- [Motel One Munich-Garching](https://www.motel-one.com/en/hotels/munich/hotel-munich-garching/). Approx. 15 minutes to the venue on public transport.
+
 
 ## Code of conduct
 
