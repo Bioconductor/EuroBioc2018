@@ -17,7 +17,16 @@ posted here soon.
 - When: 6 - 7 December 2018
 
 ## Accommodation
-- [Motel One Munich-Garching](https://www.motel-one.com/en/hotels/munich/hotel-munich-garching/). Approx. 15 minutes to the venue on public transport.
+- [Motel One Munich-Sendlinger Tor](https://www.motel-one.com/en/hotels/munich/hotel-munich-sendlinger-tor/). This is located in the city centre close to the Sendlinger Tor underground station.
+- [Motel One Munich-Garching](https://www.motel-one.com/en/hotels/munich/hotel-munich-garching/). This is located outside the city centre but closer to the conference venue. The Garching-Hochbrück station is right outside the hotel.
+
+## Getting to the venue
+
+By public transport (U-Bahn), the venue can be reached in approximately 30 minutes from the city centre. You need to get off at the last stop of U6 Line (Garching-Forschungzentrum).
+You can find more information here:
+- [Ticket prices](https://www.mvv-muenchen.de/en/tickets-and-fares/tickets-daytickets/single-day-ticket/index.html). Garching-Forschungzentrum is on the green zone therefore you will need to buy the Munich XXL ticket (8,90 EUR for a single-day ticket).
+- [Map of the transportation network](https://www.mvv-muenchen.de/en/maps-stations/maps/index.html)
+- [Map of the ticket zones](https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Tarifplaene/Sondertarifplaene_Messe/TARIFPLAN_Schnellbahnnetz_2018_Raeume.PDF)
 
 
 ## Code of conduct
@@ -31,22 +40,4 @@ poster sessions, social activities, or online.
 
 ## Previous meetings
 
-If you have not previously attended any European Bioconductor
-meetings, you can get an idea about the topics and talks by looking at
-the programmes from the
-[2017](https://bioconductor.github.io/EuroBioc2017/),
-[2016](http://www.scicore.ch/events/eurobioc2016/) and
-[2015](https://sites.google.com/site/eurobioc2015/) editions.
-
-## Organising committee
-- [Wolfgang Huber](https://www.embl.de/research/units/genome_biology/huber/), European Microbiology Laboratory (EMBL), Heidelberg
-- [Martin Morgan](https://www.roswellpark.org/martin-morgan), Roswell Park Comprehensive Cancer Center, Buffalo
-- [Mark Robinson](https://robinsonlabuzh.github.io/), University of Zurich
-- [Julien Gagneur](https://www.gagneurlab.in.tum.de/), Technical University Munich 
-- [Anne-Laure Boulesteix](https://www.ibe.med.uni-muenchen.de/lehrstuehle/pr-molecular-medicine/index.html), Ludwig Maximilian University Munich (LMU)
-- [Fabian Theis](https://www.helmholtz-muenchen.de/icb/index.html), Helmholtz Zentrum Munich
-
-## Sponsors
-
-If you are interested in supporting this meeting, please contact the
-organisers.
+If you have not previously attended any Euro
