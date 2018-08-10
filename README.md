@@ -59,4 +59,4 @@ the programmes from the
 ## Sponsors
 
 If you are interested in supporting this meeting, please contact the
-organis
+organisers.
