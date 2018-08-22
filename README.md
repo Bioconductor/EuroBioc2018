@@ -17,7 +17,7 @@ hosted at the Technical University Munich, Germany, on December 2018.
 
 ## Registration
 
-Registration will open on 28 August. [Register here](https://bioconductor.github.io/EuroBioc2018/registration/)
+Registration will open on 28 August.
 
 ## Accommodation
 - [Motel One Munich-Sendlinger Tor](https://www.motel-one.com/en/hotels/munich/hotel-munich-sendlinger-tor/). This is located in the city centre close to the Sendlinger Tor underground station.
