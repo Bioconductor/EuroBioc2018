@@ -10,7 +10,7 @@ output:
 
 
 The 2018 edition of the **European Bioconductor Developer Meeting** will be
-hosted at the Technical University Munich, Germany, in December 2018.
+hosted at the Technical University Munich, Germany, on December 2018.
 
 - Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching
 - When: 6 - 7 December 2018
