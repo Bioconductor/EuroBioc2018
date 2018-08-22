@@ -32,6 +32,11 @@ More information is available here:
 - [Map of the transportation network](https://www.mvv-muenchen.de/en/maps-stations/maps/index.html)
 - [Map of the ticket zones](https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Tarifplaene/Sondertarifplaene_Messe/TARIFPLAN_Schnellbahnnetz_2018_Raeume.PDF)
 
+## Social Activities
+
+On the evening of 6 December, there will be a talk by Lisa McShane at Ludwig-Maximilians University (LMU) from 5-6pm. Afterwards, there will be a dinner party (self-funded) at a traditional Bavarian restaurant. We will post the meeting location closer to the date.
+
+On Saturday (8 December), some attendees will go skiing in Garmisch, a Bavarian ski town outside Munich. Everyone is welcome to join. The meeting location will be at the Munich main station (Hauptbahnhof). 
 
 ## Code of conduct
 
