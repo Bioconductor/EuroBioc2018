@@ -10,15 +10,14 @@ output:
 
 
 The 2018 edition of the **European Bioconductor meeting** will be
-organised at the Technical University Munich, Germany, in December 2018. More details will be
-posted here soon.
+hosted at the Technical University Munich, Germany, in December 2018.
 
-- Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstraße 2a, Garching
+- Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching
 - When: 6 - 7 December 2018
 
 ## Accommodation
 - [Motel One Munich-Sendlinger Tor](https://www.motel-one.com/en/hotels/munich/hotel-munich-sendlinger-tor/). This is located in the city centre close to the Sendlinger Tor underground station.
-- [Motel One Munich-Garching](https://www.motel-one.com/en/hotels/munich/hotel-munich-garching/). This is located outside the city centre but closer to the conference venue. The Garching-Hochbrück station is right outside the hotel.
+- [Motel One Munich-Garching](https://www.motel-one.com/en/hotels/munich/hotel-munich-garching/). This is located outside the city centre but closer to the conference venue. The Garching-Hochbruck station is right outside the hotel.
 
 ## Getting to the venue
 
@@ -34,7 +33,7 @@ More information is available here:
 
 Bioconductor is built on the free and open exchange of scientific
 ideas, and the contributions of our diverse user community. In this
-spirit, EuroBioc 2017 is dedicated to providing a harassment-free
+spirit, EuroBioc 2018 is dedicated to providing a harassment-free
 conference experience for everyone. Harassment of any form (verbal,
 physical, sexual, or other) will not be tolerated in talks, workshops,
 poster sessions, social activities, or online.
@@ -56,7 +55,3 @@ the programmes from the
 - [Anne-Laure Boulesteix](https://www.ibe.med.uni-muenchen.de/lehrstuehle/pr-molecular-medicine/index.html), Ludwig Maximilian University Munich (LMU)
 - [Fabian Theis](https://www.helmholtz-muenchen.de/icb/index.html), Helmholtz Zentrum Munich
 
-## Sponsors
-
-If you are interested in supporting this meeting, please contact the
-organisers.
