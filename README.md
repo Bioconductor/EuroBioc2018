@@ -6,7 +6,7 @@ output:
    toc_float: true
 ---
 
-## European Bioconductor Meeting 2018
+## European Bioconductor Developer Meeting 2018
 
 
 The 2018 edition of the **European Bioconductor Developer Meeting** will be
