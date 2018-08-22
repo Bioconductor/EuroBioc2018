@@ -15,6 +15,10 @@ hosted at the Technical University Munich, Germany, in December 2018.
 - Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching
 - When: 6 - 7 December 2018
 
+## Registration
+
+Registration will open on 28 August. [Register here](https://bioconductor.github.io/EuroBioc2018/registration/)
+
 ## Accommodation
 - [Motel One Munich-Sendlinger Tor](https://www.motel-one.com/en/hotels/munich/hotel-munich-sendlinger-tor/). This is located in the city centre close to the Sendlinger Tor underground station.
 - [Motel One Munich-Garching](https://www.motel-one.com/en/hotels/munich/hotel-munich-garching/). This is located outside the city centre but closer to the conference venue. The Garching-Hochbruck station is right outside the hotel.
