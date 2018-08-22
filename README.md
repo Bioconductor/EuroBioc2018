@@ -1,5 +1,5 @@
 ---
-Title: 'European Bioconductor Meeting 2018'
+Title: 'European Bioconductor Developer Meeting 2018'
 output:
   html_document:
    toc: true
@@ -9,7 +9,7 @@ output:
 ## European Bioconductor Meeting 2018
 
 
-The 2018 edition of the **European Bioconductor meeting** will be
+The 2018 edition of the **European Bioconductor Developer Meeting** will be
 hosted at the Technical University Munich, Germany, in December 2018.
 
 - Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching
@@ -40,7 +40,7 @@ poster sessions, social activities, or online.
 
 ## Previous meetings
 
-If you have not previously attended any European Bioconductor
+If you have not previously attended any European Bioconductor Developer
 meetings, you can get an idea about the topics and talks by looking at
 the programmes from the
 [2017](https://bioconductor.github.io/EuroBioc2017/),
