@@ -6,8 +6,6 @@ output:
    toc_float: true
 ---
 
-![winter in munich](https://bioconductor.github.io/EuroBioc2018/assets/MUC_english_garden.jpg)
-
 ## European Bioconductor Developer Meeting 2018
 
 
