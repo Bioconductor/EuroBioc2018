@@ -38,7 +38,7 @@ More information is available here:
 
 ## Social Activities
 
-On the evening of 6 December, there will be a talk by Lisa McShane at Ludwig-Maximilians University (LMU) from 5-6pm. Afterwards, there will be a dinner party (self-funded) at a traditional Bavarian restaurant. We will post the meeting location closer to the date.
+On the evening of 6 December, there will be a talk by Lisa McShane at Ludwig-Maximilians University (LMU) from 5-6pm. Afterwards, we will visit the Christmas market in the city centre and have a dinner party (self-funded) at a traditional Bavarian restaurant. We will post the meeting location closer to the date.
 
 On Saturday (8 December), some attendees will go skiing in Garmisch, a Bavarian ski town outside Munich. Everyone is welcome to join. The meeting location will be at the Munich main station (Hauptbahnhof). 
 
@@ -67,4 +67,5 @@ the programmes from the
 - [Julien Gagneur](https://www.gagneurlab.in.tum.de/), Technical University Munich 
 - [Anne-Laure Boulesteix](https://www.ibe.med.uni-muenchen.de/lehrstuehle/pr-molecular-medicine/index.html), Ludwig Maximilian University Munich (LMU)
 - [Fabian Theis](https://www.helmholtz-muenchen.de/icb/index.html), Helmholtz Zentrum Munich
+
 
