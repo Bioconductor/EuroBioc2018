@@ -6,6 +6,8 @@ output:
    toc_float: true
 ---
 
+![useful image](https://bioconductor.github.io/EuroBioc2018/assets/MUC_english_garden.jpg)
+
 ## European Bioconductor Developer Meeting 2018
 
 
@@ -31,7 +33,8 @@ Registration will open on 28 August.
 
 By public transport (U-Bahn), the venue can be reached in approximately 30 minutes from the city centre. You need to get off at the last stop of the U6 Line (Garching-Forschungzentrum).
 
-More information is available here:
+More information is available here
+
 - [Ticket prices](https://www.mvv-muenchen.de/en/tickets-and-fares/tickets-daytickets/single-day-ticket/index.html). Garching-Forschungzentrum is on the green zone therefore you will need to buy the Munich XXL ticket (8,90 EUR for a single-day ticket).
 - [Map of the transportation network](https://www.mvv-muenchen.de/en/maps-stations/maps/index.html)
 - [Map of the ticket zones](https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Tarifplaene/Sondertarifplaene_Messe/TARIFPLAN_Schnellbahnnetz_2018_Raeume.PDF)
