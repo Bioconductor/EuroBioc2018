@@ -19,6 +19,10 @@ hosted at the Technical University Munich, Germany, on December 2018.
 
 Registration will open on 28 August.
 
+## Invited Speakers
+- [Keegan Korthauer](kkorthauer.org), Dana-Farber Cancer Institute and Harvard T.H. Chan School of Public Health
+- Fanny Perraudeau, UC Berkeley
+
 ## Accommodation
 - [Motel One Munich-Sendlinger Tor](https://www.motel-one.com/en/hotels/munich/hotel-munich-sendlinger-tor/). This is located in the city centre close to the Sendlinger Tor underground station.
 - [Motel One Munich-Garching](https://www.motel-one.com/en/hotels/munich/hotel-munich-garching/). This is located outside the city centre but closer to the conference venue. The Garching-Hochbruck station is right outside the hotel.
