@@ -20,7 +20,7 @@ hosted at the Technical University Munich, Germany, on December 2018.
 Registration will open on 28 August.
 
 ## Invited Speakers
-- [Keegan Korthauer](kkorthauer.org), Dana-Farber Cancer Institute and Harvard T.H. Chan School of Public Health
+- [Keegan Korthauer](http://kkorthauer.org), Dana-Farber Cancer Institute and Harvard T.H. Chan School of Public Health
 - Fanny Perraudeau, UC Berkeley
 
 ## Accommodation
