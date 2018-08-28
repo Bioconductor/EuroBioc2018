@@ -39,7 +39,9 @@ More information is available here
 
 ## Social Activities
 
-On the evening of 6 December, there will be a talk by Lisa McShane at Ludwig-Maximilians University (LMU) from 5-6pm. Afterwards, we will visit the Christmas market in the city centre and have a dinner party (self-funded) at a traditional Bavarian restaurant. We will post the meeting location closer to the date.
+On Wednesday evening (5 December), there will be a talk by Lisa McShane at Ludwig-Maximilians University (LMU) from 5-6pm. Those who are already in Munich and would like to attend are welcome to do so.
+
+On Thursday evening (6 December), we will visit the Christmas market in the city centre and have a dinner party (self-funded) at a traditional Bavarian restaurant afterwards. We will post the meeting location closer to the date.
 
 On Saturday (8 December), some attendees will go skiing in Garmisch, a Bavarian ski town outside Munich. Everyone is welcome to join. The meeting location will be at the Munich main station (Hauptbahnhof). 
 
