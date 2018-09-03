@@ -15,13 +15,72 @@ hosted at the Technical University Munich, Germany, on December 2018.
 - Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching
 - When: 6 - 7 December 2018
 
+## Introduction
+The meeting is aimed at biologists, bioinformaticians, programmers and software engineers who use or contribute to the Bioconductor project, or are interested in using Bioconductor. The goals are to:
+
+- foster the exchange of technical expertise
+- keep contributors up to speed with the latest developments
+coordinate any related efforts.
+
+The main conference will be on Thursday 6 and Friday 7 December 2018. The day before, attendees are welcome to join the STRATOS group for keyote talk by Lisa Mc Shane.
+
+## Key dates 
+- Oct 10: Abstract deadline
+- Oct 25: Notice of acceptance
+- Nov 21: Registration deadline
+- Dec 5 (evening): Stratos meeting
+- Dec 6-7: European Bioconductor Developer Meeting
+
 ## Registration
 
-Registration will open soon.
+Registration is free of charge but mandatory. We have up to 100 seats and will give priority to speakers and contributors of Bioconductor packages.
 
-## Invited Speakers
+Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
+
+## Confirmed Speakers
 - [Keegan Korthauer](http://kkorthauer.org), Dana-Farber Cancer Institute and Harvard T.H. Chan School of Public Health
-- Fanny Perraudeau, UC Berkeley
+- [Fanny Perraudeau](https://fannyperraudeau.wordpress.com/), UC Berkeley
+- [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/), LMU, Munich
+
+## Preliminary schedule
+
+*On Wed 5, the Stratos meeting takes place at the building of the LMU located Schellingstr. 3 (city centre, near Geschwister-Scholl-Platz), lecture hall S005.*
+
+| Wed 5 Dec     |                                 |
+|---------------|---------------------------------|
+| 17:00 - 18:00 | *Lisa Mc Shane*                 | 
+| 18:00 - 19:00 | Introduction to STRATOS         |
+| 19:00 -       | Informal get to-gether in some brewery|
+
+
+| Thu 6 Dec     |                                   |
+|---------------|-----------------------------------|
+| 09:00 - 09:15 | Registration                      |
+| 09:15 - 09:30 | Welcome and introduction          |
+| 09:30 - 10:00 | *Bernd Bischl*                    |
+| 10:00 - 10:30 | tbd                               |
+| 10:30 - 11:00 | Coffee break                      |
+| 11:00 - 12:30 | Session II                        |
+| 12:30 - 13:30 | Lunch                             |
+| 13:30 - 15:00 | Session III                       |
+| 15:00 - 15:30 | Coffee break                      |
+| 15:30 - 17:00 | Session IV                        |
+| 18:00 - 19:00 | Christmas market                  |
+| 19:30 -       | Dinner at Hofbrauhaus (self-funded)|
+
+
+| Fri 7 Dec     |                                 |
+|---------------|---------------------------------|
+| 09:00 - 09:30 | *Keegan Korthauer*              |
+| 09:30 - 10:30 | tbd                             |
+| 10:30 - 11:00 | Coffee break                    |
+| 11:00 - 12:30 | tbd                             |
+| 12:30 - 13:30 | Lunch                           |
+| 13:30 - 14:00 | *Fanny Perraudeau*              |
+| 14:00 - 15:00 | tbd                             |
+| 15:00 - 15:30 | Coffee break                    |
+| 15:30 - 16:00 | Wrap-up and closing             |
+
 
 ## Accommodation
 - [Motel One Munich-Sendlinger Tor](https://www.motel-one.com/en/hotels/munich/hotel-munich-sendlinger-tor/). This is located in the city centre close to the Sendlinger Tor underground station.
@@ -39,11 +98,11 @@ More information is available here
 
 ## Social Activities
 
-On Wednesday evening (5 December), there will be a talk by Lisa McShane at Ludwig-Maximilians University (LMU) from 5-6pm. Those who are already in Munich and would like to attend are welcome to do so.
+Wed. 5 Dec. evening. There will be a talk by [Lisa McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm) at Ludwig-Maximilians University (LMU) from 5-6pm, followed by a presentation of the [STRATOS](http://www.stratos-initiative.org) initiative. This is an opportunity for the two groups to meet. We plan to go for some beer and food downtown afterward (self-funded).
 
-On Thursday evening (6 December), we will visit the Christmas market in the city centre and have a dinner party (self-funded) at a traditional Bavarian restaurant afterwards. We will post the meeting location closer to the date.
+Thur. 6 Dec. evening We will visit the Christmas market in the city centre and have a dinner party (self-funded) at the brewery [Hofbrauhaus](https://www.hofbraeuhaus.de/en/) afterwards.
 
-On Saturday (8 December), some attendees will go skiing in Garmisch, a Bavarian ski town outside Munich. Everyone is welcome to join. The meeting location will be at the Munich main station (Hauptbahnhof). 
+Sat. 8 Dec. Some organizers will go skiing in Garmisch, a ski resort near Munich. Everyone is welcome to join. Here some information from last year about a [train & ski-pass offer](https://www.bahn.de/p/view/mdb/bahnintern/angebotsberatung/regio/laender-tickets/pdfs/2017/mdb_260597_garmischer_ski_ticket_2017_18_flyer.pdf). 
 
 ## Code of conduct
 
