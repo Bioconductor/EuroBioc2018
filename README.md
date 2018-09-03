@@ -10,19 +10,19 @@ output:
 
 
 The 2018 edition of the **European Bioconductor Developer Meeting** will be
-hosted at the Technical University Munich, Germany, on December 2018.
+hosted at the Technical University of Munich, Germany, on December 2018.
 
 - Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching
 - When: 6 - 7 December 2018
 
 ## Introduction
-The meeting is aimed at biologists, bioinformaticians, programmers and software engineers who use or contribute to the Bioconductor project, or are interested in using Bioconductor. The goals are to:
+The meeting is aimed at biologists, bioinformaticians, programmers and software engineers who use or contribute to the [Bioconductor project](https://www.bioconductor.org/), or are interested in using Bioconductor. The goals are to:
 
 - foster the exchange of technical expertise
 - keep contributors up to speed with the latest developments
 coordinate any related efforts.
 
-The main conference will be on Thursday 6 and Friday 7 December 2018. The day before, attendees are welcome to join the STRATOS group for keyote talk by Lisa Mc Shane.
+The main conference will be on Thursday 6 and Friday 7 December 2018. The day before, attendees are welcome to join the [STRATOS group](http://stratos-initiative.org) for a keynote talk by [Lisa Meier McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm).
 
 ## Key dates 
 - Oct 10: Abstract deadline
@@ -48,8 +48,8 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 
 | Wed 5 Dec     |                                 |
 |---------------|---------------------------------|
-| 17:00 - 18:00 | *Lisa Mc Shane*                 | 
-| 18:00 - 19:00 | Introduction to STRATOS         |
+| 17:00 - 18:00 | [Lisa Meier McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm) | 
+| 18:00 - 19:00 | Introduction to the [STRATOS initiative](http://stratos-initiative.org)         |
 | 19:00 -       | Informal get to-gether in some brewery|
 
 
@@ -58,7 +58,7 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 | 09:00 - 09:15 | Registration                      |
 | 09:15 - 09:30 | Welcome and introduction          |
 | 09:30 - 10:00 | *Bernd Bischl*                    |
-| 10:00 - 10:30 | tbd                               |
+| 10:00 - 10:30 | Session I                         |
 | 10:30 - 11:00 | Coffee break                      |
 | 11:00 - 12:30 | Session II                        |
 | 12:30 - 13:30 | Lunch                             |
@@ -72,12 +72,12 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 | Fri 7 Dec     |                                 |
 |---------------|---------------------------------|
 | 09:00 - 09:30 | *Keegan Korthauer*              |
-| 09:30 - 10:30 | tbd                             |
+| 09:30 - 10:30 | Session V                       |
 | 10:30 - 11:00 | Coffee break                    |
-| 11:00 - 12:30 | tbd                             |
+| 11:00 - 12:30 | Session VI                      |
 | 12:30 - 13:30 | Lunch                           |
 | 13:30 - 14:00 | *Fanny Perraudeau*              |
-| 14:00 - 15:00 | tbd                             |
+| 14:00 - 15:00 | Session VII                     |
 | 15:00 - 15:30 | Coffee break                    |
 | 15:30 - 16:00 | Wrap-up and closing             |
 
@@ -102,7 +102,7 @@ Wed. 5 Dec. evening. There will be a talk by [Lisa McShane](https://brb.nci.nih.
 
 Thur. 6 Dec. evening We will visit the Christmas market in the city centre and have a dinner party (self-funded) at the brewery [Hofbrauhaus](https://www.hofbraeuhaus.de/en/) afterwards.
 
-Sat. 8 Dec. Some organizers will go skiing in Garmisch, a ski resort near Munich. Everyone is welcome to join. Here some information from last year about a [train & ski-pass offer](https://www.bahn.de/p/view/mdb/bahnintern/angebotsberatung/regio/laender-tickets/pdfs/2017/mdb_260597_garmischer_ski_ticket_2017_18_flyer.pdf). 
+Sat. 8 Dec. If the snow condition allows it, some organizers will go skiing in Garmisch, a ski resort near Munich. Everyone is welcome to join. Here some information from last year about a [train & ski-pass offer](https://www.bahn.de/p/view/mdb/bahnintern/angebotsberatung/regio/laender-tickets/pdfs/2017/mdb_260597_garmischer_ski_ticket_2017_18_flyer.pdf). 
 
 ## Code of conduct
 
@@ -126,8 +126,9 @@ the programmes from the
 - [Wolfgang Huber](https://www.embl.de/research/units/genome_biology/huber/), European Microbiology Laboratory (EMBL), Heidelberg
 - [Martin Morgan](https://www.roswellpark.org/martin-morgan), Roswell Park Comprehensive Cancer Center, Buffalo
 - [Mark Robinson](https://robinsonlabuzh.github.io/), University of Zurich
-- [Julien Gagneur](https://www.gagneurlab.in.tum.de/), Technical University Munich 
-- [Anne-Laure Boulesteix](https://www.ibe.med.uni-muenchen.de/lehrstuehle/pr-molecular-medicine/index.html), Ludwig Maximilian University Munich (LMU)
+- [Julien Gagneur](https://www.gagneurlab.in.tum.de/), Technical University of Munich 
+- [Anne-Laure Boulesteix](https://www.ibe.med.uni-muenchen.de/lehrstuehle/pr-molecular-medicine/index.html), Ludwig-Maximilians Universitaet, Munich
 - [Fabian Theis](https://www.helmholtz-muenchen.de/icb/index.html), Helmholtz Zentrum Munich
 
-
+## Contact
+More information? Contact us at `<bioceuro18_AT_in.tum.de>`
