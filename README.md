@@ -1,5 +1,5 @@
 ---
-Title: 'European Bioconductor Developer Meeting 2018'
+title: 'European Bioconductor Developer Meeting 2018'
 output:
   html_document:
    toc: true
@@ -16,13 +16,13 @@ hosted at the Technical University of Munich, Germany, on December 2018.
 - When: 6 - 7 December 2018
 
 ## Introduction
-The meeting is aimed at biologists, bioinformaticians, programmers and software engineers who use or contribute to the [Bioconductor project](https://www.bioconductor.org/), or are interested in using Bioconductor. The goals are to:
+The meeting is aimed at biologists, bioinformaticians, statisticians, programmers and software engineers who use or contribute to the [Bioconductor project](https://www.bioconductor.org/), or are interested in using Bioconductor. The goals are to:
 
 - foster the exchange of technical expertise
 - keep contributors up to speed with the latest developments
 coordinate any related efforts.
 
-The main conference will be on Thursday 6 and Friday 7 December 2018. The day before, attendees are welcome to join the [STRATOS group](http://stratos-initiative.org) for a keynote talk by [Lisa Meier McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm).
+The main conference will be on Thursday 6 and Friday 7 December 2018. The day before, attendees are welcome to join the [STRATOS](http://stratos-initiative.org) topic group 9 "high-dimensional data" for a keynote talk by [Lisa Meier McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm).
 
 ## Key dates 
 - Oct 10: Abstract deadline
@@ -37,23 +37,25 @@ Registration is free of charge but mandatory. We have up to 100 seats and will g
 
 Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 
-## Confirmed Speakers
+## Confirmed invited speakers
 - [Keegan Korthauer](http://kkorthauer.org), Dana-Farber Cancer Institute and Harvard T.H. Chan School of Public Health
 - [Fanny Perraudeau](https://fannyperraudeau.wordpress.com/), UC Berkeley
 - [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/), LMU, Munich
 
 ## Preliminary schedule
+**Joint meeting with the [STRATOS](http://stratos-initiative.org) topic group 9 "high-dimensional data"**
 
-*On Wed 5, the Stratos meeting takes place at the building of the LMU located Schellingstr. 3 (city centre, near Geschwister-Scholl-Platz), lecture hall S005.*
-
-| Wed 5 Dec     |                                 |
+| Wed 5 Dec     |[Schellingstr. 3](https://goo.gl/maps/zZ2NDx6zKYm) (Munich centre, near Geschwister-Scholl-Platz), lecture hall S005*|
 |---------------|---------------------------------|
 | 17:00 - 18:00 | [Lisa Meier McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm) | 
 | 18:00 - 19:00 | Introduction to the [STRATOS initiative](http://stratos-initiative.org)         |
 | 19:00 -       | Informal get to-gether in some brewery|
 
 
-| Thu 6 Dec     |                                   |
+
+**EuroBioc 2018**
+
+| Thu 6 Dec     |[TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching|                                   |
 |---------------|-----------------------------------|
 | 09:00 - 09:15 | Registration                      |
 | 09:15 - 09:30 | Welcome and introduction          |
@@ -69,7 +71,7 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 | 19:30 -       | Dinner at Hofbrauhaus (self-funded)|
 
 
-| Fri 7 Dec     |                                 |
+| Fri 7 Dec     |[TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching|
 |---------------|---------------------------------|
 | 09:00 - 09:30 | *Keegan Korthauer*              |
 | 09:30 - 10:30 | Session V                       |
@@ -100,7 +102,7 @@ More information is available here
 
 Wed. 5 Dec. evening. There will be a talk by [Lisa McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm) at Ludwig-Maximilians University (LMU) from 5-6pm, followed by a presentation of the [STRATOS](http://www.stratos-initiative.org) initiative. This is an opportunity for the two groups to meet. We plan to go for some beer and food downtown afterward (self-funded).
 
-Thur. 6 Dec. evening We will visit the Christmas market in the city centre and have a dinner party (self-funded) at the brewery [Hofbrauhaus](https://www.hofbraeuhaus.de/en/) afterwards.
+Thur. 6 Dec. evening we will visit the Christmas market in the city centre and have a dinner party (self-funded) at the brewery [Hofbrauhaus](https://www.hofbraeuhaus.de/en/) afterwards.
 
 Sat. 8 Dec. If the snow condition allows it, some organizers will go skiing in Garmisch, a ski resort near Munich. Everyone is welcome to join. Here some information from last year about a [train & ski-pass offer](https://www.bahn.de/p/view/mdb/bahnintern/angebotsberatung/regio/laender-tickets/pdfs/2017/mdb_260597_garmischer_ski_ticket_2017_18_flyer.pdf). 
 
@@ -118,8 +120,7 @@ poster sessions, social activities, or online.
 If you have not previously attended any European Bioconductor Developer
 meetings, you can get an idea about the topics and talks by looking at
 the programmes from the
-[2017](https://bioconductor.github.io/EuroBioc2017/),
-[2016](http://www.scicore.ch/events/eurobioc2016/) and
+[2017](https://bioconductor.github.io/EuroBioc2017/), and
 [2015](https://sites.google.com/site/eurobioc2015/) editions.
 
 ## Organising committee
