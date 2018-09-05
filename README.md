@@ -28,7 +28,7 @@ The main conference will be on Thursday 6 and Friday 7 December 2018. The day be
 - Oct 10: Abstract deadline
 - Oct 25: Notice of acceptance
 - Nov 21: Registration deadline
-- Dec 5 (evening): Stratos meeting
+- Dec 5 (evening): STRATOS meeting
 - Dec 6-7: European Bioconductor Developer Meeting
 
 ## Registration
@@ -39,7 +39,7 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 
 ## Confirmed invited speakers
 - [Keegan Korthauer](http://kkorthauer.org), Dana-Farber Cancer Institute and Harvard T.H. Chan School of Public Health
-- [Fanny Perraudeau](https://fannyperraudeau.wordpress.com/), UC Berkeley
+- [Fanny Perraudeau](https://www.wholebiome.com/team.html#fanny-perraudeau), Whole Biome, San Francisco
 - [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/), LMU, Munich
 
 ## Preliminary schedule
@@ -59,7 +59,7 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 |---------------|-----------------------------------|
 | 09:00 - 09:15 | Registration                      |
 | 09:15 - 09:30 | Welcome and introduction          |
-| 09:30 - 10:00 | *Bernd Bischl*                    |
+| 09:30 - 10:00 | [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/)                    |
 | 10:00 - 10:30 | Session I                         |
 | 10:30 - 11:00 | Coffee break                      |
 | 11:00 - 12:30 | Session II                        |
@@ -73,12 +73,12 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 
 | Fri 7 Dec     |[TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching|
 |---------------|---------------------------------|
-| 09:00 - 09:30 | *Keegan Korthauer*              |
+| 09:00 - 09:30 | [Keegan Korthauer](http://kkorthauer.org)              |
 | 09:30 - 10:30 | Session V                       |
 | 10:30 - 11:00 | Coffee break                    |
 | 11:00 - 12:30 | Session VI                      |
 | 12:30 - 13:30 | Lunch                           |
-| 13:30 - 14:00 | *Fanny Perraudeau*              |
+| 13:30 - 14:00 | [Fanny Perraudeau](https://www.wholebiome.com/team.html#fanny-perraudeau) *Unlocking RNA-seq tools for zero-inflation and single cell applications using ZINB-WaVE observation weights*|
 | 14:00 - 15:00 | Session VII                     |
 | 15:00 - 15:30 | Coffee break                    |
 | 15:30 - 16:00 | Wrap-up and closing             |
@@ -115,6 +115,8 @@ conference experience for everyone. Harassment of any form (verbal,
 physical, sexual, or other) will not be tolerated in talks, workshops,
 poster sessions, social activities, or online.
 
+Reach out to conference organizers (bioceuro18@in.tum.de) or our on-site response team with any concern (Anne-Laure Boulesteix or Julien Gagneur).
+
 ## Previous meetings
 
 If you have not previously attended any European Bioconductor Developer
@@ -132,4 +134,4 @@ the programmes from the
 - [Fabian Theis](https://www.helmholtz-muenchen.de/icb/index.html), Helmholtz Zentrum Munich
 
 ## Contact
-More information? Contact us at `<bioceuro18_AT_in.tum.de>`
+More information? Contact us at bioceuro18@in.tum.de
