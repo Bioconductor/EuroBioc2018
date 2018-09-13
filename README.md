@@ -1,15 +1,12 @@
 ---
-title: 'European Bioconductor Developer Meeting 2018'
+title: 'European Bioconductor Meeting 2018'
 output:
   html_document:
    toc: true
    toc_float: true
 ---
 
-## European Bioconductor Developer Meeting 2018
-
-
-The 2018 edition of the **European Bioconductor Developer Meeting** will be
+The 2018 edition of the **European Bioconductor Meeting** will be
 hosted at the Technical University of Munich, Germany, on December 2018.
 
 - Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching
@@ -29,7 +26,7 @@ The main conference will be on Thursday 6 and Friday 7 December 2018. The day be
 - Oct 25: Notice of acceptance
 - Nov 21: Registration deadline
 - Dec 5 (evening): STRATOS meeting
-- Dec 6-7: European Bioconductor Developer Meeting
+- Dec 6-7: European Bioconductor Meeting
 
 ## Registration
 
@@ -119,8 +116,7 @@ Reach out to conference organizers (bioceuro18@in.tum.de) or our on-site respons
 
 ## Previous meetings
 
-If you have not previously attended any European Bioconductor Developer
-meetings, you can get an idea about the topics and talks by looking at
+If you have not previously attended any European Bioconductor meetings, you can get an idea about the topics and talks by looking at
 the programmes from the
 [2017](https://bioconductor.github.io/EuroBioc2017/), and
 [2015](https://sites.google.com/site/eurobioc2015/) editions.
