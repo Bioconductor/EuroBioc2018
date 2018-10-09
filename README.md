@@ -44,7 +44,7 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 
 | Wed 5 Dec     |[Schellingstr. 3](https://goo.gl/maps/zZ2NDx6zKYm) (Munich centre, near Geschwister-Scholl-Platz), lecture hall S005*|
 |---------------|---------------------------------|
-| 17:00 - 18:00 | [Lisa Meier McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm) | 
+| 17:00 - 18:00 | [Lisa Meier McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm) Reproducibility of omics research: shared responsibilities and consequences of ignorance  | 
 | 18:00 - 19:00 | Introduction to the [STRATOS initiative](http://stratos-initiative.org)         |
 | 19:00 -       | Informal get to-gether in some brewery|
 
@@ -61,7 +61,8 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 | 10:30 - 11:00 | Coffee break                      |
 | 11:00 - 12:30 | Session II                        |
 | 12:30 - 13:30 | Lunch                             |
-| 13:30 - 15:00 | Session III                       |
+| 13:30 - 14:00 | [Martin Morgan](https://www.roswellpark.org/martin-morgan) Update from the Bioconductor core team |
+| 14:00 - 15:00 | Session III                       |
 | 15:00 - 15:30 | Coffee break                      |
 | 15:30 - 17:00 | Session IV                        |
 | 18:00 - 19:00 | Christmas market                  |
