@@ -7,7 +7,7 @@ output:
 ---
 
 The 2018 edition of the **European Bioconductor Meeting** will be
-hosted at the Technical University of Munich, Germany, on December 2018.
+hosted at the Technical University of Munich, Germany, on 6-7 December 2018.
 
 - Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching
 - When: 6 - 7 December 2018
@@ -22,8 +22,8 @@ coordinate any related efforts.
 The main conference will be on Thursday 6 and Friday 7 December 2018. The day before, attendees are welcome to join the [STRATOS](http://stratos-initiative.org) topic group 9 "high-dimensional data" for a keynote talk by [Lisa Meier McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm).
 
 ## Key dates 
-- Oct 10: Abstract deadline
-- Oct 25: Notice of acceptance
+- Oct 17: Abstract deadline
+- Oct 29: Notice of acceptance
 - Nov 21: Registration deadline
 - Dec 5 (evening): STRATOS meeting
 - Dec 6-7: European Bioconductor Meeting
