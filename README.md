@@ -71,12 +71,12 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 
 | Fri 7 Dec     |[TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching|
 |---------------|---------------------------------|
-| 09:00 - 09:30 | [Keegan Korthauer](http://kkorthauer.org)              |
+| 09:00 - 09:30 | [Keegan Korthauer](http://kkorthauer.org) Practical recommendations for controlling false discoveries in computational biology              |
 | 09:30 - 10:30 | Session V                       |
 | 10:30 - 11:00 | Coffee break                    |
 | 11:00 - 12:30 | Session VI                      |
 | 12:30 - 13:30 | Lunch                           |
-| 13:30 - 14:00 | [Fanny Perraudeau](https://www.wholebiome.com/team.html#fanny-perraudeau) *Unlocking RNA-seq tools for zero-inflation and single cell applications using ZINB-WaVE observation weights*|
+| 13:30 - 14:00 | [Fanny Perraudeau](https://www.wholebiome.com/team.html#fanny-perraudeau) Unlocking RNA-seq tools for zero-inflation and single cell applications using ZINB-WaVE observation weights|
 | 14:00 - 15:00 | Session VII                     |
 | 15:00 - 15:30 | Coffee break                    |
 | 15:30 - 16:00 | Wrap-up and closing             |
