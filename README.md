@@ -71,7 +71,7 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 
 | Fri 7 Dec     |[TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching|
 |---------------|---------------------------------|
-| 09:00 - 09:30 | [Keegan Korthauer](http://kkorthauer.org)              |
+| 09:00 - 09:30 | [Keegan Korthauer](http://kkorthauer.org) *Practical recommendations for controlling false discoveries in computational biology*|
 | 09:30 - 10:30 | Session V                       |
 | 10:30 - 11:00 | Coffee break                    |
 | 11:00 - 12:30 | Session VI                      |
