@@ -138,8 +138,8 @@ the programmes from the
 - [Fabian Theis](https://www.helmholtz-muenchen.de/icb/index.html), Helmholtz Zentrum Munich
 
 ## Sponsors
-<img alt="de NBI" src="./docs/assets/denbi.png">
-<img alt="de NBI" src="./docs/assets/biomax.png">
+<img alt="de NBI" src="./docs/assets/denbi.png" width="50%" height="50%">
+<img alt="Biomax Informatics" src="./docs/assets/biomax.png" width="50%" height="50%">
 
 ## Contact
 More information? Contact us at bioceuro18@in.tum.de
