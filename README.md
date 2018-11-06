@@ -139,6 +139,7 @@ the programmes from the
 
 ## Sponsors
 <img alt="de NBI" src="./docs/assets/denbi.png">
+<img alt="de NBI" src="./docs/assets/biomax.png">
 
 ## Contact
 More information? Contact us at bioceuro18@in.tum.de
