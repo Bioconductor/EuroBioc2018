@@ -114,13 +114,6 @@ physical, sexual, or other) will not be tolerated in talks, workshops, social ac
 
 Reach out to conference organizers (bioceuro18@in.tum.de) or our on-site response team with any concern (Anne-Laure Boulesteix or Julien Gagneur).
 
-## Sponsor opportunities
-Interested in sponsoring this conference? Please contact bioceuro18@in.tum.de.
-
-* Gold: Up to 4 free registrations. Present a talk about R&D in your company (relevant to the bioconductor community but not necessarily based on bioconductor). 1 poster in the foyer. Recognition in promotional and scheduling material. Sponsored food or social event (e.g. Coffee break, Dinner, etc.). 2,500 Eur
-
-* Silver: Up to 2 free registrations. Recognition in promotional and scheduling material. 1,000 Eur
-
 
 ## Previous meetings
 
@@ -140,6 +133,14 @@ the programmes from the
 ## Sponsors
 <img alt="de NBI" src="./docs/assets/denbi.png" width="50%" height="50%">
 <img alt="Biomax Informatics" src="./docs/assets/biomax.png" width="50%" height="50%">
+
+## Sponsor opportunities
+Interested in sponsoring this conference? Please contact bioceuro18@in.tum.de.
+
+* Gold: Up to 4 free registrations. Present a talk about R&D in your company (relevant to the bioconductor community but not necessarily based on bioconductor). 1 poster in the foyer. Recognition in promotional and scheduling material. Sponsored food or social event (e.g. Coffee break, Dinner, etc.). 2,500 Eur
+
+* Silver: Up to 2 free registrations. Recognition in promotional and scheduling material. 1,000 Eur
+
 
 ## Contact
 More information? Contact us at bioceuro18@in.tum.de
