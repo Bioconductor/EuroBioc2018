@@ -137,5 +137,9 @@ the programmes from the
 - [Anne-Laure Boulesteix](https://www.ibe.med.uni-muenchen.de/lehrstuehle/pr-molecular-medicine/index.html), Ludwig-Maximilians Universitaet, Munich
 - [Fabian Theis](https://www.helmholtz-muenchen.de/icb/index.html), Helmholtz Zentrum Munich
 
+## Sponsors
+<img alt="de NBI" src="./docs/assets/denbi.png">
+
 ## Contact
 More information? Contact us at bioceuro18@in.tum.de
+
