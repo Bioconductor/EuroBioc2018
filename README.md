@@ -131,8 +131,8 @@ the programmes from the
 - [Fabian Theis](https://www.helmholtz-muenchen.de/icb/index.html), Helmholtz Zentrum Munich
 
 ## Sponsors
-<img alt="de NBI" src="./docs/assets/denbi.png" width="50%" height="50%">
-<img alt="Biomax Informatics" src="./docs/assets/biomax.png" width="50%" height="50%">
+<a href="https://www.denbi.de/" target="_blank"> <img alt="de NBI" src="./docs/assets/denbi.png" width="50%" height="50%"> </a>
+<a href="https://www.biomax.com/" target="_blank"> <img alt="Biomax Informatics" src="./docs/assets/biomax.png" width="50%" height="50%"> </a>
 
 ## Sponsor opportunities
 Interested in sponsoring this conference? Please contact bioceuro18@in.tum.de.
