@@ -52,7 +52,7 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 
 **EuroBioc 2018**
 
-| Thu 6 Dec     |[TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching|                                   |
+| Thu 6 Dec     |[TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching|                                   
 |---------------|-----------------------------------|
 | 09:00 - 09:15 | Registration                      |
 | 09:15 - 09:30 | Welcome and introduction          |
