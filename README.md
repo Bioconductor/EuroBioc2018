@@ -41,7 +41,7 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 
 ## Preliminary schedule
 **Joint meeting with the [STRATOS](http://stratos-initiative.org) topic group 9 "high-dimensional data"**
-
+ 
 | Wed 5 Dec     | [Schellingstr. 3](https://goo.gl/maps/zZ2NDx6zKYm) (Munich centre, near Geschwister-Scholl-Platz), lecture hall S005*|
 |---------------|---------------------------------|
 | 17:00 - 18:00 | [Lisa Meier McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm) Reproducibility of omics research: shared responsibilities and consequences of ignorance  | 
@@ -49,9 +49,8 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 | 19:00 -       | Informal get-together in some brewery|
 
 
-
 **EuroBioc 2018**
-
+ 
 | Thu 6 Dec     |[TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching|                                   
 |---------------|-----------------------------------|
 | 09:00 - 09:15 | Registration                      |
@@ -66,7 +65,7 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 | 15:00 - 15:30 | Coffee break                      |
 | 15:30 - 17:00 | Session IV                        |
 | 18:00 - 19:00 | Christmas market                  |
-| 19:30 -       | Dinner at Hofbrauhaus (self-funded)|
+| 19:30 -       | Dinner at Hofbrauhaus (self-funded) |
 
 
 | Fri 7 Dec     |[TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching|
