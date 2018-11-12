@@ -133,7 +133,7 @@ the programmes from the
 <a href="https://www.denbi.de/" target="_blank"> <img alt="de NBI" src="./docs/assets/denbi.png" width="50%" height="50%"> </a>
 <a href="https://www.biomax.com/" target="_blank"> <img alt="Biomax Informatics" src="./docs/assets/biomax.png" width="50%" height="50%"> </a>
 <a href="https://www.evotec.com/" target="_blank"> <img alt="evotec" src="./docs/assets/evotec_logo.jpg" width="50%" height="50%"> </a>
-<a href="https://www.omicsouts.com/en/" target="_blank"> <img alt="omicsouts" src="./docs/assets/omicscouts_logo.png" width="50%" height="50%"> </a>
+<a href="https://www.omicscouts.com/en/" target="_blank"> <img alt="omicscouts" src="./docs/assets/omicscouts_logo.png" width="50%" height="50%"> </a>
 
 ## Sponsor opportunities
 Interested in sponsoring this conference? Please contact bioceuro18@in.tum.de.
