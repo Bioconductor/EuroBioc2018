@@ -42,7 +42,7 @@ Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
 ## Preliminary schedule
 **Joint meeting with the [STRATOS](http://stratos-initiative.org) topic group 9 "high-dimensional data"**
  
-| Wed 5 Dec     | [Schellingstr. 3](https://goo.gl/maps/zZ2NDx6zKYm) (Munich centre, near Geschwister-Scholl-Platz), lecture hall S005*|
+| Wed 5 Dec     | [Schellingstr. 3](https://goo.gl/maps/zZ2NDx6zKYm) (Munich centre, near Geschwister-Scholl-Platz), lecture hall S005|
 |---------------|---------------------------------|
 | 17:00 - 18:00 | [Lisa Meier McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm) Reproducibility of omics research: shared responsibilities and consequences of ignorance  | 
 | 18:00 - 19:00 | Introduction to the [STRATOS initiative](http://stratos-initiative.org)         |
