@@ -1,10 +1,16 @@
 ---
-title: 'European Bioconductor Meeting 2018'
+title: ''
 output:
   html_document:
    toc: true
    toc_float: true
 ---
+
+<div style="text-align: right"> 
+<a href="https://www.bioconductor.org/" target="_blank"> <img alt="Bioconductor" src="./docs/assets/bioconductor_logo.jpg" width="45%" height="45%"> </a>
+</div>
+
+# European Bioconductor Meeting 2018
 
 The 2018 edition of the **European Bioconductor Meeting** will be
 hosted at the Technical University of Munich, Germany, on 6-7 December 2018.
@@ -30,9 +36,7 @@ The main conference will be on Thursday 6 and Friday 7 December 2018. The day be
 
 ## Registration
 
-Registration is free of charge but mandatory. We have up to 100 seats and will give priority to speakers and contributors of Bioconductor packages.
-
-Please fill in the [registration form](https://goo.gl/forms/t8Sa2aUc4G1H0U1m1).
+Registration is now closed.
 
 ## Confirmed invited speakers
 - [Keegan Korthauer](http://kkorthauer.org), Dana-Farber Cancer Institute and Harvard T.H. Chan School of Public Health
@@ -131,9 +135,10 @@ the programmes from the
 
 ## Sponsors
 <a href="https://www.denbi.de/" target="_blank"> <img alt="de NBI" src="./docs/assets/denbi.png" width="50%" height="50%"> </a>
+<a href="https://www.omicscouts.com/en/" target="_blank"> <img alt="omicscouts" src="./docs/assets/omicscouts_logo.png" width="50%" height="50%"> </a>
 <a href="https://www.biomax.com/" target="_blank"> <img alt="Biomax Informatics" src="./docs/assets/biomax.png" width="50%" height="50%"> </a>
 <a href="https://www.evotec.com/" target="_blank"> <img alt="evotec" src="./docs/assets/evotec_logo.jpg" width="50%" height="50%"> </a>
-<a href="https://www.omicscouts.com/en/" target="_blank"> <img alt="omicscouts" src="./docs/assets/omicscouts_logo.png" width="50%" height="50%"> </a>
+
 
 ## Sponsor opportunities
 Interested in sponsoring this conference? Please contact bioceuro18@in.tum.de.
