@@ -68,7 +68,7 @@ Registration is now closed.
 | 11:00 - 11:15 | Nemanja Vucic: Using R/Shiny implementation of Bioconductor packages on the Cancer Genomic Cloud platform         |
 | 11:15 - 11:30 | Federico Marini: iSEE: data exploration made easy & reproducible                        |
 | 11:30 - 11:45 | Svetlana Ovchinnikova: R/LinkedCharts: A novel approach for simple but powerful interactive data analysis         |
-| 11:45 - 12:00 | Lisa Breckels: Interactive visualisation of spatial proteomics data            |
+| 11:45 - 12:00 | Laurent Gatto / Lisa Breckels: Interactive visualisation of spatial proteomics data            |
 | 12:00 - 12:15 | Phil Cheng: TCGA Browser  |
 | 12:15 - 13:30 | Lunch                             |
 | 13:30 - 14:00 | [Martin Morgan](https://www.roswellpark.org/martin-morgan) Update from the Bioconductor core team |
@@ -111,7 +111,7 @@ Registration is now closed.
 | 14:30 - 14:45 | Christian Mertes:	OUTRIDER: A statistical method for detecting aberrantly expressed genes in RNA sequencing data        |
 | 14:45 - 15:00 | Svetozar Nesic:	Targeted synthetic datasets to benchmark allele specific expression algorithms            |
 | 15:00 - 15:15 | Marijke Van Moerbeke:	A Random Effects Model for the Identification of Differential Splicing (REIDS) Using Exon and HTA Arrays                      |
-| 15:15 - 15:30 | TBD                      |
+| 15:15 - 15:30 | Ziga Avsec: Kipoi: accelerating the community exchange and reuse of predictive models for genomics    |
 | 15:30 - 15:35 | **Wrap-up and closing**             |
 
 
