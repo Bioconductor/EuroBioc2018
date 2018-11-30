@@ -59,7 +59,7 @@ Registration is now closed.
 |---------------|---------------------------------------------------|
 | 09:00 - 09:15 | **Registration**                      |
 | 09:15 - 09:30 | Welcome and introduction          |
-| 09:30 - 10:00 | [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/)     |
+| 09:30 - 10:00 | [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/): mlr3: Towards an object-oriented, configurable ML pipeline system in R6     |
 | 10:00 - 10:30 | **Session I**                     |
 | 10:00 - 10:15 | Lukas Weber: HDCytoData package: High-dimensional cytometry benchmark datasets in Bioconductor formats                     |
 | 10:15 - 10:30 | Elena Landoni: Normalization and batch correction effects on class comparison analysis with high throughput data: a simulation study   |
