@@ -17,6 +17,7 @@ hosted at the Technical University of Munich, Germany, on 6-7 December 2018.
 
 - Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching
 - When: 6 - 7 December 2018
+- [Abstract book](https://drive.google.com/file/d/1-YYOzea5rFA2ci38hHFzxBIU1NaeRQNT/view?usp=sharing)
 
 ## Introduction
 The meeting is aimed at biologists, bioinformaticians, statisticians, programmers and software engineers who use or contribute to the [Bioconductor project](https://www.bioconductor.org/), or are interested in using Bioconductor. The goals are to:
@@ -46,7 +47,7 @@ Registration is now closed.
 ## Preliminary schedule
 **Joint meeting with the [STRATOS](http://stratos-initiative.org) topic group 9 "high-dimensional data"**
  
-| Wed 5 Dec     | [Schellingstr. 3](https://goo.gl/maps/zZ2NDx6zKYm) (Munich centre, near Geschwister-Scholl-Platz), [lecture hall S005](https://i12g-gagneurweb.in.tum.de/project/EuroBioc2018/MapSchellingstrasse3STRATOSTalk.pdf)|
+| Wed 5 Dec     | [Schellingstr. 3](https://goo.gl/maps/zZ2NDx6zKYm) (Munich centre, near Geschwister-Scholl-Platz), [lecture hall S005](https://drive.google.com/file/d/1WH4-eT5A7hQGzm5pUGdlockxM1jEoD8T/view?usp=sharing)|
 |---------------|---------------------------------------------------|
 | 17:00 - 18:00 | [Lisa Meier McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm) Reproducibility of omics research: shared responsibilities and consequences of ignorance  | 
 | 18:00 - 19:00 | Introduction to the [STRATOS initiative](http://stratos-initiative.org)         |
@@ -59,7 +60,7 @@ Registration is now closed.
 |---------------|---------------------------------------------------|
 | 09:00 - 09:15 | **Registration**                      |
 | 09:15 - 09:30 | Welcome and introduction          |
-| 09:30 - 10:00 | [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/): mlr3: Towards an object-oriented, configurable ML pipeline system in R6     |
+| 09:30 - 10:00 | [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) mlr3: Towards an object-oriented, configurable ML pipeline system in R6     |
 | 10:00 - 10:30 | **Session I**                     |
 | 10:00 - 10:15 | Lukas Weber: HDCytoData package: High-dimensional cytometry benchmark datasets in Bioconductor formats                     |
 | 10:15 - 10:30 | Elena Landoni: Normalization and batch correction effects on class comparison analysis with high throughput data: a simulation study   |
@@ -76,7 +77,7 @@ Registration is now closed.
 | 14:00 - 14:15 | Shijie Zheng: Identification of differentially methylated cell-types in Epigenome-Wide Association Studies         |
 | 14:15 - 14:30 | Jonas Ibn-Salem: sevenC: Computational Chromosome Conformation Capture by Correlation of ChIP-seq at CTCF motifs                 |
 | 14:30 - 14:45 | Markus List: Analysing large-scale epigenomic data with DeepBlue        |
-| 14:45 - 15:00 | Yadollah Shahryary Dizaji	MethylStar: An efficient and flexible pipeline for population-level analysis of Whole Genome Bisulfite Sequencing (WGBS) data    |
+| 14:45 - 15:00 | Yadollah Shahryary Dizaji:	MethylStar: An efficient and flexible pipeline for population-level analysis of Whole Genome Bisulfite Sequencing (WGBS) data    |
 | 15:00 - 15:15 | Alexander Gosdschan: methylKit, a package for DNA methylation analysis from high-throughput bisulfite sequencing data            |
 | 15:15 - 15:45 | Coffee break                      |
 | 15:45 - 17:00 | **Session IV - Proteomics**                       |
@@ -95,7 +96,7 @@ Registration is now closed.
 | 09:30 - 10:15 | **Session V**                       |
 | 09:30 - 09:45 | Ruizhu Huang:	The tree aggregation   |
 | 09:45 - 10:00 | Thomas Girke:	signatureSearch: Gene Expression Signature Search Methods for Discovering Novel Modes of Action of Drugs and Other Cellular Perturbations   |
-| 10:00 - 10:15 | Ludwig Geistlinger :	Towards a gold standard for benchmarking gene set enrichment analysis   |
+| 10:00 - 10:15 | Ludwig Geistlinger:	Towards a gold standard for benchmarking gene set enrichment analysis   |
 | 10:15 - 10:45 | Coffee break                    |
 | 10:45 - 12:00 | **Session VI - Multiomics**    |
 | 10:45 - 11:00 | Vince Carey:	Hybrid data architectures for multiomic experiments    |
@@ -150,8 +151,7 @@ Reach out to conference organizers (bioceuro18@in.tum.de) or our on-site respons
 
 ## Previous meetings
 
-If you have not previously attended any European Bioconductor meetings, you can get an idea about the topics and talks by looking at
-the programmes from the
+If you have not previously attended any European Bioconductor meetings, you can get an idea about the topics and talks by looking at the programmes from the
 [2017](https://bioconductor.github.io/EuroBioc2017/), and
 [2015](https://sites.google.com/site/eurobioc2015/) editions.
 
