@@ -17,7 +17,7 @@ hosted at the Technical University of Munich, Germany, on 6-7 December 2018.
 
 - Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching
 - When: 6 - 7 December 2018
-- [Abstract book](https://drive.google.com/file/d/1-YYOzea5rFA2ci38hHFzxBIU1NaeRQNT/view?usp=sharing)
+- [Conference booklet](https://drive.google.com/file/d/1MnP79Xxd1UsRIZ8FJ2sXiAEMVPJ2-qBo/view?usp=sharing)
 
 ## Introduction
 The meeting is aimed at biologists, bioinformaticians, statisticians, programmers and software engineers who use or contribute to the [Bioconductor project](https://www.bioconductor.org/), or are interested in using Bioconductor. The goals are to:
