@@ -17,7 +17,7 @@ hosted at the Technical University of Munich, Germany, on 6-7 December 2018.
 
 - Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching
 - When: 6 - 7 December 2018
-- [Conference booklet](https://drive.google.com/file/d/1MnP79Xxd1UsRIZ8FJ2sXiAEMVPJ2-qBo/view?usp=sharing)
+- [Conference booklet](https://drive.google.com/file/d/1wM2Rhc46ARMeFb1egfMJQPnjxVy9TYpK/view?usp=sharing)
 
 ## Introduction
 The meeting is aimed at biologists, bioinformaticians, statisticians, programmers and software engineers who use or contribute to the [Bioconductor project](https://www.bioconductor.org/), or are interested in using Bioconductor. The goals are to:
@@ -68,7 +68,7 @@ Registration is now closed.
 | 11:00 - 12:15 | **Session II - Visualization**                        |
 | 11:00 - 11:15 | Nemanja Vucic: Using R/Shiny implementation of Bioconductor packages on the Cancer Genomic Cloud platform         |
 | 11:15 - 11:30 | Federico Marini: iSEE: data exploration made easy & reproducible                        |
-| 11:30 - 11:45 | Svetlana Ovchinnikova: R/LinkedCharts: A novel approach for simple but powerful interactive data analysis         |
+| 11:30 - 11:45 | Svetlana Ovchinnikova / Simon Anders: R/LinkedCharts: A novel approach for simple but powerful interactive data analysis         |
 | 11:45 - 12:00 | Laurent Gatto / Lisa Breckels: Interactive visualisation of spatial proteomics data            |
 | 12:00 - 12:15 | Phil Cheng: TCGA Browser  |
 | 12:15 - 13:30 | Lunch                             |
