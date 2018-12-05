@@ -87,7 +87,7 @@ Registration is now closed.
 | 16:15 - 16:30 | Markus Gruber:	MS-EmpiRe - Mass Spectrometry analysis using Empirical and Replicate based statistics         |
 | 16:30 - 16:45 | Helena Crowell:	Differential discovery in CyTOF data with CATALYST & diffcyt            |
 | 16:45 - 17:00 | Constantin Ahlmann-Eltze:	Empirical Bayesian Modeling for Mass Spectrometry Data  |
-| 18:00 - 19:00 | Christmas market                  |
+| 18:00 - 19:00 | Free time (Christmas market)                  |
 | 19:30 -       | Dinner at Hofbrauhaus (self-funded) |
 
 
