@@ -17,7 +17,8 @@ hosted at the Technical University of Munich, Germany, on 6-7 December 2018.
 
 - Where: [TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching
 - When: 6 - 7 December 2018
-- [Conference booklet](https://drive.google.com/file/d/1wM2Rhc46ARMeFb1egfMJQPnjxVy9TYpK/view?usp=sharing)
+- [Conference booklet](https://drive.google.com/file/d/1PonreA8ch_WuTTqWbzE7mHxentjyID6w/view?usp=sharing)
+- On twitter: #EuroBioc2018
 
 ## Introduction
 The meeting is aimed at biologists, bioinformaticians, statisticians, programmers and software engineers who use or contribute to the [Bioconductor project](https://www.bioconductor.org/), or are interested in using Bioconductor. The goals are to:
@@ -47,7 +48,7 @@ Registration is now closed.
 ## Preliminary schedule
 **Joint meeting with the [STRATOS](http://stratos-initiative.org) topic group 9 "high-dimensional data"**
  
-| Wed 5 Dec     | [Schellingstr. 3](https://goo.gl/maps/zZ2NDx6zKYm) (Munich centre, near Geschwister-Scholl-Platz), [lecture hall S005](https://drive.google.com/file/d/1WH4-eT5A7hQGzm5pUGdlockxM1jEoD8T/view?usp=sharing)|
+| Wed 5 Dec     | [Schellingstr. 3](https://goo.gl/maps/zZ2NDx6zKYm) (Munich centre, near Geschwister-Scholl-Platz), [lecture hall S005](https://drive.google.com/file/d/14N3S6Y4j0EetFrPABoT0bJTYO4am11lR/view?usp=sharing)|
 |---------------|---------------------------------------------------|
 | 17:00 - 18:00 | [Lisa Meier McShane](https://brb.nci.nih.gov/aboutBRP/lmcshane.htm) Reproducibility of omics research: shared responsibilities and consequences of ignorance  | 
 | 18:00 - 19:00 | Introduction to the [STRATOS initiative](http://stratos-initiative.org)         |
