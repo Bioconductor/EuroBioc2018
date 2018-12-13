@@ -73,7 +73,7 @@ Registration is now closed.
 | 11:45 - 12:00 | Laurent Gatto / Lisa Breckels: [Interactive visualisation of spatial proteomics data](https://zenodo.org/record/1927886#.XBI0c5xRceN)      |
 | 12:00 - 12:15 | Phil Cheng: [TCGA Browser](https://drive.google.com/file/d/1A4ZOVNLQQWtXioEW3a1PHxYkT4nMv6qe/view?usp=sharing)  |
 | 12:15 - 13:30 | Lunch                             |
-| 13:30 - 14:00 | [Martin Morgan](https://www.roswellpark.org/martin-morgan) [Update from the Bioconductor core team](https://drive.google.com/drive/u/0/folders/1o5t8l1Abi7b0JapcnlSzt7h6UscjWiXM) |
+| 13:30 - 14:00 | [Martin Morgan](https://www.roswellpark.org/martin-morgan) [Update from the Bioconductor core team](https://drive.google.com/file/d/1b2U-zoOWK0l0famGkShCQAUhNY7ZAYNr/view?usp=sharing) |
 | 14:00 - 15:00 | **Session III - Epigenomics**                       |
 | 14:00 - 14:15 | Shijie Zheng: [Identification of differentially methylated cell-types in Epigenome-Wide Association Studies](https://drive.google.com/file/d/1PGSfcWN6I0fnIJEF9etCT0TL-8KG7KXM/view?usp=sharing)   |
 | 14:15 - 14:30 | Jonas Ibn-Salem: [sevenC: Computational Chromosome Conformation Capture by Correlation of ChIP-seq at CTCF motifs](https://drive.google.com/file/d/1gcIwTBg7pib8OQWsJStu6qGDj03xkdt9/view?usp=sharing)     |
@@ -104,7 +104,7 @@ Registration is now closed.
 | 11:00 - 11:15 | Johannes Rainer:	ensembldb: coordinate mapping between the genome, exome, transcriptome and proteome         |
 | 11:15 - 11:30 | Laurent Gatto:	[A Grammar of Omics Data Manipulation](http://bit.ly/tidies-eurobioc18)          |
 | 11:30 - 11:45 | Leo Lahti:	[A roadmap for microbiome bioinformatics in R](https://drive.google.com/file/d/1Vi889gspbNnbDLwY1tkj9QXQIpFhb1Rv/view?usp=sharing)         |
-| 11:45 - 12:00 | Katarzyna Wreczycka:	[Genomation: a toolkit to summarize, annotate and visualize genomic intervals](https://drive.google.com/file/d/1zzgrs-iixu84CqrNFhPTJdDQkx0KCBaE/view?usp=sharing)      |
+| 11:45 - 12:00 | Katarzyna Wreczycka:	Genomation: a toolkit to summarize, annotate and visualize genomic intervals      |
 | 12:00 - 13:30 | Lunch                           |
 | 13:30 - 14:00 | [Fanny Perraudeau](https://www.wholebiome.com/team.html#fanny-perraudeau) [Unlocking RNA-seq tools for zero-inflation and single cell applications using ZINB-WaVE observation weights](https://drive.google.com/file/d/18gsUFepXeG9oG2o2MwgaZgR9pJkckgsP/view?usp=sharing) |
 | 14:00 - 15:30 | **Session VII - RNA**           |
