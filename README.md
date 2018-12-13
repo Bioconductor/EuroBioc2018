@@ -101,7 +101,7 @@ Registration is now closed.
 | 10:15 - 10:45 | Coffee break                    |
 | 10:45 - 12:00 | **Session VI - Multiomics**    |
 | 10:45 - 11:00 | Vince Carey:	[Hybrid data architectures for multiomic experiments](https://drive.google.com/file/d/1MM4WZFhVvNg8WCxfozfRuK82Sl5tTPVm/view?usp=sharing)    |
-| 11:00 - 11:15 | Johannes Rainer:	ensembldb: coordinate mapping between the genome, exome, transcriptome and proteome         |
+| 11:00 - 11:15 | Johannes Rainer:	[ensembldb: coordinate mapping between the genome, exome, transcriptome and proteome](https://drive.google.com/file/d/1MetF1phq2C1x_SzgHriPloV7mWdTpG4F/view?usp=sharing)     |
 | 11:15 - 11:30 | Laurent Gatto:	[A Grammar of Omics Data Manipulation](http://bit.ly/tidies-eurobioc18)          |
 | 11:30 - 11:45 | Leo Lahti:	[A roadmap for microbiome bioinformatics in R](https://drive.google.com/file/d/1Vi889gspbNnbDLwY1tkj9QXQIpFhb1Rv/view?usp=sharing)         |
 | 11:45 - 12:00 | Katarzyna Wreczycka:	Genomation: a toolkit to summarize, annotate and visualize genomic intervals      |
