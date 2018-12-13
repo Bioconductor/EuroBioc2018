@@ -45,7 +45,7 @@ Registration is now closed.
 - [Fanny Perraudeau](https://www.wholebiome.com/team.html#fanny-perraudeau), Whole Biome, San Francisco
 - [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/), LMU, Munich
 
-## Preliminary schedule
+## Schedule
 **Joint meeting with the [STRATOS](http://stratos-initiative.org) topic group 9 "high-dimensional data"**
  
 | Wed 5 Dec     | [Schellingstr. 3](https://goo.gl/maps/zZ2NDx6zKYm) (Munich centre, near Geschwister-Scholl-Platz), [lecture hall S005](https://drive.google.com/file/d/14N3S6Y4j0EetFrPABoT0bJTYO4am11lR/view?usp=sharing)|
