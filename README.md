@@ -61,59 +61,59 @@ Registration is now closed.
 |---------------|---------------------------------------------------|
 | 09:00 - 09:15 | **Registration**                      |
 | 09:15 - 09:30 | Welcome and introduction          |
-| 09:30 - 10:00 | [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) mlr3: Towards an object-oriented, configurable ML pipeline system in R6     |
+| 09:30 - 10:00 | [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/) [mlr3: Towards an object-oriented, configurable ML pipeline system in R6](https://drive.google.com/file/d/1b2c3mrUcTr-1KMhGnSIY2FHXiK_kImRu/view?usp=sharing)     |
 | 10:00 - 10:30 | **Session I**                     |
-| 10:00 - 10:15 | Lukas Weber: HDCytoData package: High-dimensional cytometry benchmark datasets in Bioconductor formats                     |
-| 10:15 - 10:30 | Elena Landoni: Normalization and batch correction effects on class comparison analysis with high throughput data: a simulation study   |
+| 10:00 - 10:15 | Lukas Weber: [HDCytoData package: High-dimensional cytometry benchmark datasets in Bioconductor formats](https://drive.google.com/file/d/1AQqwMPJpuyrCBSrvofck7wKDW1fEgxLr/view?usp=sharing)         |
+| 10:15 - 10:30 | Elena Landoni: [Normalization and batch correction effects on class comparison analysis with high throughput data: a simulation study](https://drive.google.com/file/d/1CKXmyjU1QEzLoyeigH_Rg4QEf_aQP2zS/view?usp=sharing)   |
 | 10:30 - 11:00 | Coffee break                      |
 | 11:00 - 12:15 | **Session II - Visualization**                        |
-| 11:00 - 11:15 | Nemanja Vucic: Using R/Shiny implementation of Bioconductor packages on the Cancer Genomic Cloud platform         |
-| 11:15 - 11:30 | Federico Marini: iSEE: data exploration made easy & reproducible                        |
-| 11:30 - 11:45 | Svetlana Ovchinnikova / Simon Anders: R/LinkedCharts: A novel approach for simple but powerful interactive data analysis         |
-| 11:45 - 12:00 | Laurent Gatto / Lisa Breckels: Interactive visualisation of spatial proteomics data            |
-| 12:00 - 12:15 | Phil Cheng: TCGA Browser  |
+| 11:00 - 11:15 | Nemanja Vucic: [Using R/Shiny implementation of Bioconductor packages on the Cancer Genomic Cloud platform](https://drive.google.com/file/d/1Z88CvfhLKH22KXxn3aTvSmNq_JGDsa-C/view?usp=sharing)   |
+| 11:15 - 11:30 | Federico Marini: [iSEE: data exploration made easy & reproducible](https://federicomarini.github.io/EuroBioc2018/#1)      |
+| 11:30 - 11:45 | Svetlana Ovchinnikova / Simon Anders: [R/LinkedCharts: A novel approach for simple but powerful interactive data analysis](https://drive.google.com/file/d/1u7J5xafDkdOV5Xovevo8SMh6qrMV0TC0/view?usp=sharing)   |
+| 11:45 - 12:00 | Laurent Gatto / Lisa Breckels: [Interactive visualisation of spatial proteomics data](https://zenodo.org/record/1927886#.XBI0c5xRceN)      |
+| 12:00 - 12:15 | Phil Cheng: [TCGA Browser](https://drive.google.com/file/d/1A4ZOVNLQQWtXioEW3a1PHxYkT4nMv6qe/view?usp=sharing)  |
 | 12:15 - 13:30 | Lunch                             |
-| 13:30 - 14:00 | [Martin Morgan](https://www.roswellpark.org/martin-morgan) Update from the Bioconductor core team |
+| 13:30 - 14:00 | [Martin Morgan](https://www.roswellpark.org/martin-morgan) [Update from the Bioconductor core team](https://drive.google.com/drive/u/0/folders/1o5t8l1Abi7b0JapcnlSzt7h6UscjWiXM) |
 | 14:00 - 15:00 | **Session III - Epigenomics**                       |
-| 14:00 - 14:15 | Shijie Zheng: Identification of differentially methylated cell-types in Epigenome-Wide Association Studies         |
-| 14:15 - 14:30 | Jonas Ibn-Salem: sevenC: Computational Chromosome Conformation Capture by Correlation of ChIP-seq at CTCF motifs                 |
-| 14:30 - 14:45 | Markus List: Analysing large-scale epigenomic data with DeepBlue        |
+| 14:00 - 14:15 | Shijie Zheng: [Identification of differentially methylated cell-types in Epigenome-Wide Association Studies](https://drive.google.com/file/d/1PGSfcWN6I0fnIJEF9etCT0TL-8KG7KXM/view?usp=sharing)   |
+| 14:15 - 14:30 | Jonas Ibn-Salem: [sevenC: Computational Chromosome Conformation Capture by Correlation of ChIP-seq at CTCF motifs](https://drive.google.com/file/d/1gcIwTBg7pib8OQWsJStu6qGDj03xkdt9/view?usp=sharing)     |
+| 14:30 - 14:45 | Markus List: [Analysing large-scale epigenomic data with DeepBlue](https://drive.google.com/file/d/1-ZHRq4HoZgQYDWdHO9t12YCkGGhJWGU2/view?usp=sharing)     |
 | 14:45 - 15:00 | Yadollah Shahryary Dizaji:	MethylStar: An efficient and flexible pipeline for population-level analysis of Whole Genome Bisulfite Sequencing (WGBS) data    |
-| 15:00 - 15:15 | Alexander Gosdschan: methylKit, a package for DNA methylation analysis from high-throughput bisulfite sequencing data            |
+| 15:00 - 15:15 | Alexander Gosdschan: [methylKit, a package for DNA methylation analysis from high-throughput bisulfite sequencing data](https://drive.google.com/file/d/1VRt0bKxzxf_le_p-20qTU5CFqAeOLyOm/view?usp=sharing)    |
 | 15:15 - 15:45 | Coffee break                      |
 | 15:45 - 17:00 | **Session IV - Proteomics**                       |
-| 15:45 - 16:00 | Christian Panse:	rawDiag: access orbitrap data on the fast lane        |
-| 16:00 - 16:15 | Nils Kurzawa:	TPP: a Bioconductor package for analysis of thermal proteome profiling experiments                  |
-| 16:15 - 16:30 | Markus Gruber:	MS-EmpiRe - Mass Spectrometry analysis using Empirical and Replicate based statistics         |
-| 16:30 - 16:45 | Helena Crowell:	Differential discovery in CyTOF data with CATALYST & diffcyt            |
-| 16:45 - 17:00 | Constantin Ahlmann-Eltze:	Empirical Bayesian Modeling for Mass Spectrometry Data  |
+| 15:45 - 16:00 | Christian Panse:	[rawDiag: access orbitrap data on the fast lane](https://drive.google.com/file/d/1iZFpUMYlxa37AZb18ajPD2sto3LMbH-D/view?usp=sharing)    |
+| 16:00 - 16:15 | Nils Kurzawa:	[TPP: a Bioconductor package for analysis of thermal proteome profiling experiments](https://drive.google.com/file/d/1EFUl4-k8ZeWn9oneQWTQzOe8IoLwXp25/view?usp=sharing)    |
+| 16:15 - 16:30 | Markus Gruber:	[MS-EmpiRe - Mass Spectrometry analysis using Empirical and Replicate based statistics](https://drive.google.com/file/d/1bVkJnd9sR310BZz_Lm77LB3lDR_yBbES/view?usp=sharing)       |
+| 16:30 - 16:45 | Helena Crowell:	[Differential discovery in CyTOF data with CATALYST & diffcyt](https://drive.google.com/file/d/1ip-jX38z8Pb8y3N02wMg9QILYfJa9jHm/view?usp=sharing)            |
+| 16:45 - 17:00 | Constantin Ahlmann-Eltze:	[Empirical Bayesian Modeling for Mass Spectrometry Data](https://drive.google.com/file/d/18Ce-2neTFoYb0yYv-eIk_4jXgenTzGHa/view?usp=sharing)  |
 | 18:00 - 19:00 | Free time (Christmas market)                  |
 | 19:30 -       | Dinner at Hofbrauhaus (self-funded) |
 
 
 | Fri 7 Dec     |[TUM-IAS Building](https://www.ias.tum.de/index.php?id=32), Lichtenbergstrasse 2a, Garching|
 |---------------|---------------------------------------------------|
-| 09:00 - 09:30 | [Keegan Korthauer](http://kkorthauer.org) Practical recommendations for controlling false discoveries in computational biology              |
+| 09:00 - 09:30 | [Keegan Korthauer](http://kkorthauer.org) [Practical recommendations for controlling false discoveries in computational biology](https://drive.google.com/file/d/1rywrXoSe-PiBZa1E12dez0CLU7y-Bc0z/view?usp=sharing)    |
 | 09:30 - 10:15 | **Session V**                       |
-| 09:30 - 09:45 | Ruizhu Huang:	The tree aggregation   |
+| 09:30 - 09:45 | Ruizhu Huang:	[The tree aggregation](https://drive.google.com/file/d/1XGrs9SoQu6C9LyzBqN0khHob_dWhqPs0/view?usp=sharing)   |
 | 09:45 - 10:00 | Thomas Girke:	signatureSearch: Gene Expression Signature Search Methods for Discovering Novel Modes of Action of Drugs and Other Cellular Perturbations   |
-| 10:00 - 10:15 | Ludwig Geistlinger:	Towards a gold standard for benchmarking gene set enrichment analysis   |
+| 10:00 - 10:15 | Ludwig Geistlinger:	[Towards a gold standard for benchmarking gene set enrichment analysis](https://drive.google.com/file/d/1lEzAudNT1dbCvlqC5H4w8g_abNzYqDSt/view?usp=sharing)   |
 | 10:15 - 10:45 | Coffee break                    |
 | 10:45 - 12:00 | **Session VI - Multiomics**    |
-| 10:45 - 11:00 | Vince Carey:	Hybrid data architectures for multiomic experiments    |
+| 10:45 - 11:00 | Vince Carey:	[Hybrid data architectures for multiomic experiments](https://drive.google.com/file/d/1MM4WZFhVvNg8WCxfozfRuK82Sl5tTPVm/view?usp=sharing)    |
 | 11:00 - 11:15 | Johannes Rainer:	ensembldb: coordinate mapping between the genome, exome, transcriptome and proteome         |
-| 11:15 - 11:30 | Laurent Gatto:	A Grammar of Omics Data Manipulation                        |
-| 11:30 - 11:45 | Leo Lahti:	A roadmap for microbiome bioinformatics in R         |
-| 11:45 - 12:00 | Katarzyna Wreczycka:	Genomation: a toolkit to summarize, annotate and visualize genomic intervals            |
+| 11:15 - 11:30 | Laurent Gatto:	[A Grammar of Omics Data Manipulation](http://bit.ly/tidies-eurobioc18)          |
+| 11:30 - 11:45 | Leo Lahti:	[A roadmap for microbiome bioinformatics in R](https://drive.google.com/file/d/1Vi889gspbNnbDLwY1tkj9QXQIpFhb1Rv/view?usp=sharing)         |
+| 11:45 - 12:00 | Katarzyna Wreczycka:	[Genomation: a toolkit to summarize, annotate and visualize genomic intervals](https://drive.google.com/file/d/1zzgrs-iixu84CqrNFhPTJdDQkx0KCBaE/view?usp=sharing)      |
 | 12:00 - 13:30 | Lunch                           |
-| 13:30 - 14:00 | [Fanny Perraudeau](https://www.wholebiome.com/team.html#fanny-perraudeau) Unlocking RNA-seq tools for zero-inflation and single cell applications using ZINB-WaVE observation weights|
+| 13:30 - 14:00 | [Fanny Perraudeau](https://www.wholebiome.com/team.html#fanny-perraudeau) [Unlocking RNA-seq tools for zero-inflation and single cell applications using ZINB-WaVE observation weights](https://drive.google.com/file/d/18gsUFepXeG9oG2o2MwgaZgR9pJkckgsP/view?usp=sharing) |
 | 14:00 - 15:30 | **Session VII - RNA**           |
-| 14:00 - 14:15 | Clara Benoit-Pilven:	kissDE retrieves condition-specific variants in RNA-Seq data from model and non-model species         |
-| 14:15 - 14:30 | Charlotte Soneson:	A junction coverage compatibility score to quantify the reliability of transcript abundance estimates and annotation catalogs   |
-| 14:30 - 14:45 | Christian Mertes:	OUTRIDER: A statistical method for detecting aberrantly expressed genes in RNA sequencing data        |
-| 14:45 - 15:00 | Svetozar Nesic:	Targeted synthetic datasets to benchmark allele specific expression algorithms            |
-| 15:00 - 15:15 | Marijke Van Moerbeke:	A Random Effects Model for the Identification of Differential Splicing (REIDS) Using Exon and HTA Arrays                      |
-| 15:15 - 15:30 | Ziga Avsec: Kipoi: accelerating the community exchange and reuse of predictive models for genomics    |
+| 14:00 - 14:15 | Clara Benoit-Pilven:	[kissDE retrieves condition-specific variants in RNA-Seq data from model and non-model species](https://drive.google.com/file/d/1AhrVcpCPf72Qii5gsnEfD04t_8Xdbrcz/view?usp=sharing)     |
+| 14:15 - 14:30 | Charlotte Soneson:	[A junction coverage compatibility score to quantify the reliability of transcript abundance estimates and annotation catalogs](https://drive.google.com/file/d/18Xx7QVt6N8wY2uOuUfK0r_lROsvljHZX/view?usp=sharing)   |
+| 14:30 - 14:45 | Christian Mertes:	[OUTRIDER: A statistical method for detecting aberrantly expressed genes in RNA sequencing data](https://docs.google.com/presentation/d/17QhsVUgmXzeRBs6OHMtNMBq2BOwyBkXPz53yCCHcIFA/edit?usp=sharing)    |
+| 14:45 - 15:00 | Svetozar Nesic:	[Targeted synthetic datasets to benchmark allele specific expression algorithms](https://drive.google.com/file/d/1Dk6Qg0AMoEbNKmtc-VnQk47Dx2lOdh3P/view?usp=sharing)    |
+| 15:00 - 15:15 | Marijke Van Moerbeke:	[A Random Effects Model for the Identification of Differential Splicing (REIDS) Using Exon and HTA Arrays](https://drive.google.com/file/d/1NWbGwuRHuDc150y2RGSFIspCEZFWlnEX/view?usp=sharing)    |
+| 15:15 - 15:30 | Ziga Avsec: [Kipoi: accelerating the community exchange and reuse of predictive models for genomics](https://docs.google.com/presentation/d/1pZdtmdhHIswcARvtvPnpr7J-3rHuGNfL60-RKkD7aK4/edit?usp=sharing)    |
 | 15:30 - 15:35 | **Wrap-up and closing**             |
 
 
