@@ -104,7 +104,7 @@ Registration is now closed.
 | 11:00 - 11:15 | Johannes Rainer:	[ensembldb: coordinate mapping between the genome, exome, transcriptome and proteome](https://drive.google.com/file/d/1MetF1phq2C1x_SzgHriPloV7mWdTpG4F/view?usp=sharing)     |
 | 11:15 - 11:30 | Laurent Gatto:	[A Grammar of Omics Data Manipulation](http://bit.ly/tidies-eurobioc18)          |
 | 11:30 - 11:45 | Leo Lahti:	[A roadmap for microbiome bioinformatics in R](https://drive.google.com/file/d/1Vi889gspbNnbDLwY1tkj9QXQIpFhb1Rv/view?usp=sharing)         |
-| 11:45 - 12:00 | Katarzyna Wreczycka:	Genomation: a toolkit to summarize, annotate and visualize genomic intervals      |
+| 11:45 - 12:00 | Katarzyna Wreczycka:	[Genomation: a toolkit to summarize, annotate and visualize genomic intervals](https://drive.google.com/file/d/1zzgrs-iixu84CqrNFhPTJdDQkx0KCBaE/view?usp=sharing)    |
 | 12:00 - 13:30 | Lunch                           |
 | 13:30 - 14:00 | [Fanny Perraudeau](https://www.wholebiome.com/team.html#fanny-perraudeau) [Unlocking RNA-seq tools for zero-inflation and single cell applications using ZINB-WaVE observation weights](https://drive.google.com/file/d/18gsUFepXeG9oG2o2MwgaZgR9pJkckgsP/view?usp=sharing) |
 | 14:00 - 15:30 | **Session VII - RNA**           |
